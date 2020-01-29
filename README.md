@@ -1,5 +1,13 @@
 # AIT600
 Towson AIT 600
 
-### Maybe put the get started page here
+## Quick Chapt Links for Addional Material
+
+### Chapt 1
+
+[Info is currency](https://infocurrency.wordpress.com/)
+
+[Enterprise Design Fad or Wicked Opportunity](http://enterprisearchitects.com/enterprise-design-fad-or-wicked-opportunity/)
+
+
  
