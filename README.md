@@ -3,7 +3,7 @@ Towson AIT 600
 
 ## Quick Chapt Links for Addional Material
 
-### Chapt 1
+### Module 1
 
 [Info is currency](https://infocurrency.wordpress.com/)
 
