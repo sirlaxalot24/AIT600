@@ -1,5 +1,5 @@
 # AIT600
-Towson AIT 600
+Towson AIT 600 - [Syllabus]("1202AIT600901_CherylThomasBrown(5).docx")
 
 ## Quick Chapt Links for Addional Material
 
