@@ -3,13 +3,69 @@ Towson AIT 600 - [Syllabus](1202AIT600901_CherylThomasBrown(5).docx)
 
 ## Quick Chapt Links for Addional Material
 
-## Module 1
+## **Module 1**
 
-[Info is currency](https://infocurrency.wordpress.com/)
 
-[Enterprise Design Fad or Wicked Opportunity](http://enterprisearchitects.com/enterprise-design-fad-or-wicked-opportunity/)
+##### Why do Architectures Fail?
+http://www.entarchitecture.com/files/Why%20Architectures%20Fail%20v0%203%20Robbie%20Forder%20(HQ).pdf
 
-[Types of Information Systems](http://www.chris-kimble.com/Courses/World_Med_MBA/Types-of-Information-System.html)
+
+##### Information is Currency: Why #Governance
+https://infocurrency.wordpress.com/
+
+
+##### Enterprise Design – Fad or Wicked Opportunity?
+http://enterprisearchitects.com/enterprise-design-fad-or-wicked-opportunity/
+
+### *Modual 1 videos*
+
+>##### Top 10 Enterprise Architect >Questions - Question#1 How Do I Become >an Enterprise >Architect
+>http://www.youtube.com/watch?v=8lj5wWe_s_w&list=PLnh-2707kPi7fGqKJbcRvU7ky8nkv9etI&index=5 (7:57 >mins)
+>
+>##### An Introduction to the Concepts of Enterprise Architecture
+>http://www.youtube.com/watch?v=rhrjueWLPmE (17:21 mins)
+>
+>##### MIS The Role of Information Systems
+>https://www.youtube.com/watch?v=u9TMny6Jgwk (1;44 mins)
+>
+>##### Contemporary Approaches to MIS
+>https://www.youtube.com/watch?v=e9ca0Ej8NkQ (1:25 mins)
+>
+>##### Components of Information Systems final
+>https://www.youtube.com/watch?v=f3kLjEmtdm0  (2:17mins)
+>
+>##### Functions of Information Systems
+>https://www.youtube.com/watch?v=2WeYSDt0RRE  (4:05 mins)
+>
+>##### Enterprise Architecture
+>Why Enterprise Architecture?
+>http://www.youtube.com/watch?v=qDI2oF1bASk (3:44 mins)
+>
+>##### IT Governance 101
+>https://www.youtube.com/watch?v=dg52El_4YR8&t=22s (5:17 mins)
+>
+>##### What is CRM?
+>https://www.youtube.com/watch?v=XmnPlfJh7zM (3:28 mins)
+>
+>##### Gartner Top 10 Strategic Technology Trends 2018
+>https://www.youtube.com/watch?v=TPbKyD2bAR4 (5:56 mins)
+>
+>##### What is Blockchain 
+>https://www.weforum.org/agenda/2016/06/blockchain-explained-simply/
+>
+>##### What is SecOps 
+>https://www.thinkahead.com/blog/5-essentials-enterprise-secops/
+>
+>##### What you should know about digital transformation
+>https://www.youtube.com/watch?v=_nSJYGEBYrg (7:33 mins)
+>
+>##### Salesforce CRM Demo for Small Business
+>https://www.salesforce.com/company/about-us/
+>
+>https://www.salesforce.com/blog/2019/08/what-does-salesforce-do.html
+>
+>##### Initiating IT Governance Strategy to Identify Business Needs
+>https://www.youtube.com/watch?v=rB_BP-9ns4A (51:11 mins)
 
 ## Module 2
 
