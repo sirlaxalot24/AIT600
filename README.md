@@ -71,7 +71,7 @@ http://enterprisearchitects.com/enterprise-design-fad-or-wicked-opportunity/
 
 ## **Module 2**
 
-## Module 2 Reading
+### Module 2 Reading
 
 ##### SYSTEMS THINKING: WHAT, WHY, WHEN, WHERE, AND HOW?
 https://thesystemsthinker.com/systems-thinking-what-why-when-where-and-how/ 
