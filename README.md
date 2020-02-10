@@ -13,18 +13,15 @@ Towson AIT 600
 
 ## Module 2
 
-SYSTEMS THINKING: WHAT, WHY, WHEN, WHERE, AND HOW?
+##### SYSTEMS THINKING: WHAT, WHY, WHEN, WHERE, AND HOW?
 https://thesystemsthinker.com/systems-thinking-what-why-when-where-and-how/ 
 
-Item
-Systems Thinking: A better way of problem-solving (7min read)
+##### Systems Thinking: A better way of problem-solving (7min read)
 https://www.linkedin.com/pulse/systems-thinking-better-way-problem-solving-dan-milberg
 
-Item
-System Thinking & Design Thinking
+##### System Thinking & Design Thinking
 https://www.slideshare.net/YashJitendraBhakat/system-thinking-design-thinking
 
-12 slides on LinkedIn
 
 ### Module 2 Videos
 
